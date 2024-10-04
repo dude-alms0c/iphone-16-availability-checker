@@ -3,6 +3,10 @@ const COUNTRIES = {
     "storePath": "",
     "skuCode": "LL",
   },
+  AE: { // UAE Apple Stores do not appear to support in-store pickup
+    "storePath": "/ae",
+    "skuCode": "AE",
+  },
   CA: {
     "storePath": "/ca",
     "skuCode": "LL",
