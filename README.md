@@ -54,9 +54,9 @@ For reference, here's how Apple's fulfillment API works.
 
 ```
 GET https://www.apple.com/shop/fulfillment-messages
-  ?parts.0=MMQX3LL%2FA  // URL encoded part number MMQX3LL/A
-  &parts.1=MKH53LL%2FA  // URL encoded part number MKH53LL/A
-  &parts.2=MYD92LL%2FA  // URL encoded part number MYD92LL/A
+  ?parts.0=MYW43LL%2FA  // URL encoded part number MYW43LL/A
+  &parts.1=MYW53LL%2FA  // URL encoded part number MYW53LL/A
+  &parts.2=MYW63LL%2FA  // URL encoded part number MYW63LL/A
   ...
   &searchNearby=true    // Instruct the API to search the designated store and the surrounding area
   &store=R172           // Store number (R172 is in Boulder, CO)
