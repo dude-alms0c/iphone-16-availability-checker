@@ -1,4 +1,4 @@
-# iphone-availability-checker
+# iphone-16-availability-checker
 Checks Apple Store inventory for new iPhone models
 This work is modified open the original poster 'andyzhu7568':
 [https://github.com/worthbak/apple-store-inventory-checker](https://github.com/andyzhu7568/iphone-availability-checker)
