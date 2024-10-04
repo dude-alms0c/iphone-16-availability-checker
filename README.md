@@ -3,7 +3,9 @@ Checks Apple Store inventory for new iPhone models
 This work is modified open the original poster 'andyzhu7568':
 [https://github.com/worthbak/apple-store-inventory-checker](https://github.com/andyzhu7568/iphone-availability-checker)
 
-I added the script for automatically checking inventory every minute and send notifications to specified iMessage email ID!!!
+I added the script for automatically checking inventory every minute and send notifications when found to specified via iMessage email ID!!!
+
+Sending via iMessage uses calling AppleScript from terminal.
 
 ### Installation 
 1.install node.js:
