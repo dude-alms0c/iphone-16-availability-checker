@@ -25,14 +25,14 @@ This will query Apple's retail inventory for all 2024 iPhone 16 Pro Max 256GB, 5
 
 Running the script without a 2nd argument will default to US stores. Adding a second argument specifies the country.
 ```sh
-$ node index.js R123 US
+$ node index.js R512 CA
 ```
 
 #### Currently Supported Countries
 | Countries         | Argument     |
 | ----------------- | ------------ |
-| United States     | US           |
-| Canada            | CA (default) |
+| United States     | US (default) |
+| Canada            | CA           |
 | Australia         | AU           |
 | Germany           | DE           |
 | United Kingdom    | UK           |
