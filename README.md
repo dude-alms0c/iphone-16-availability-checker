@@ -63,3 +63,11 @@ GET https://www.apple.com/shop/fulfillment-messages
   &searchNearby=true    // Instruct the API to search the designated store and the surrounding area
   &store=R172           // Store number (R172 is in Boulder, CO)
 ```
+
+### Credits
+[apple-store-inventory-checker](https://github.com/worthbak/apple-store-inventory-checker)
+[iphone-availability-checker](https://github.com/andyzhu7568/iphone-availability-checker)
+[applescript](https://www.npmjs.com/package/applescript)
+
+
+
