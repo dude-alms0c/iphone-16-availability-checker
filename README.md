@@ -16,14 +16,14 @@ https://nodejs.org/en
 First, find the US store number of your local Apple Store using [the included table](./apple-store-numbers-us.md) ([see here for Canadian stores](./apple-store-numbers-canada.md)). Then run the script, passing the number as an argument:
 
 ```sh
-$ node index.js R301
+$ node index.js R130
 ```
 
-This will query Apple's retail inventory for all 2023 iPhone 15 Pro Max 256gb variants that are known to be stocked in-store. `R301` is a store in Calgary, AB, so that store plus others in the surrouding area will be queried. The results are logged to `stdout`, and if any models are found, a notification will be sent. 
+This will query Apple's retail inventory for all 2024 iPhone 16 Pro Max 256GB, 512GB variants that are known to be stocked in-store. `R130` is a store in Oklahoma City, OK, so that store plus others in the surrouding area will be queried. The results are logged to `stdout`, and if any models are found, a notification will be sent as well as iMessage. 
 
 ### For other countries
 
-Running the script without a 2nd argument will default to CA stores. Adding a second argument specifies the country.
+Running the script without a 2nd argument will default to US stores. Adding a second argument specifies the country.
 ```sh
 $ node index.js R123 US
 ```
