@@ -61,7 +61,7 @@ GET https://www.apple.com/shop/fulfillment-messages
   &parts.2=MYW63LL%2FA  // URL encoded part number MYW63LL/A
   ...
   &searchNearby=true    // Instruct the API to search the designated store and the surrounding area
-  &store=R172           // Store number (R172 is in Boulder, CO)
+  &store=R130           // Store number (R130 is in Penn Square, Oklahoma City)
 ```
 
 ### Credits
