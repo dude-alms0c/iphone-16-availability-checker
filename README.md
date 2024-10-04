@@ -71,5 +71,5 @@ GET https://www.apple.com/shop/fulfillment-messages
 
 [applescript](https://www.npmjs.com/package/applescript)
 
-iPhone part numbers from [everymac.com](https://everymac.com/systems/apple/iphone/specs/apple-iphone-16-pro-max-united-states-a3084-specs.html)
+iPhone part numbers from [everymac.com](https://everymac.com/systems/apple/iphone/specs/apple-iphone-16-pro-max-united-states-a3084-specs.html) and [Apple](http://apple.com)
 
