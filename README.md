@@ -1,10 +1,9 @@
 # iphone-availability-checker
 Checks Apple Store inventory for new iPhone models
-This work is modified open the original poster 'worthbak':
-https://github.com/worthbak/apple-store-inventory-checker
+This work is modified open the original poster 'andyzhu7568':
+[https://github.com/worthbak/apple-store-inventory-checker](https://github.com/andyzhu7568/iphone-availability-checker)
 
-I added the script for automatically checking inventory every minute
-This setup is easier to run than the original method, but it will not run in the background.
+I added the script for automatically checking inventory every minute and send notifications to specified iMessage email ID!!!
 
 ### Installation 
 1.install node.js:
@@ -12,7 +11,7 @@ https://nodejs.org/en
 2.Download all files into a folder, open terminal on that folder, run `npm install` to load the project's dependencies. 
 
 ### Running the script
-First, find the store number of your local Apple Store using [the included table](./apple-store-numbers.md) ([see here for Canadian stores](./apple-store-numbers-canada.md)). Then run the script, passing the number as an argument:
+First, find the store number of your local Apple Store using [the included table](./apple-store-numbers-us.md) ([see here for Canadian stores](./apple-store-numbers-canada.md)). Then run the script, passing the number as an argument:
 
 ```sh
 $ node index.js R301
