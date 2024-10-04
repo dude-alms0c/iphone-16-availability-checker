@@ -11,7 +11,7 @@ https://nodejs.org/en
 2.Download all files into a folder, open terminal on that folder, run `npm install` to load the project's dependencies. 
 
 ### Running the script
-First, find the store number of your local Apple Store using [the included table](./apple-store-numbers-us.md) ([see here for Canadian stores](./apple-store-numbers-canada.md)). Then run the script, passing the number as an argument:
+First, find the US store number of your local Apple Store using [the included table](./apple-store-numbers-us.md) ([see here for Canadian stores](./apple-store-numbers-canada.md)). Then run the script, passing the number as an argument:
 
 ```sh
 $ node index.js R301
